@@ -54,3 +54,5 @@ Job Application
 3. Postman collection - https://www.getpostman.com/collections/a6d611863d7ee60db6cb 
 
 4. Swagger can be accessed at http://localhost:8080/swagger-ui.html
+
+5. In-memory volatile db being used here
